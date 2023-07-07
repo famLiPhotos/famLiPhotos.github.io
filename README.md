@@ -1,3 +1,3 @@
 # famLiPhotos.github.io
 Family photo album
-URL: [https://famLiPHotos.github.io](https://famLiPHotos.github.io)
+URL: [https://famLiPhotos.github.io](https://famLiPhotos.github.io)
